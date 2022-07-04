@@ -33,6 +33,7 @@
  * Remove the margin in all browsers.
  */
 body {
+  text-align: center;
   margin: 0;
 }
 
